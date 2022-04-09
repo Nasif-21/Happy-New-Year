@@ -2,7 +2,8 @@
 #include <windows.h>  // for MS Windows
 #include <GL/glut.h>  // GLUT, include glu.h and gl.h
 #include<math.h>
-/* Initialize OpenGL Graphics */
+/* Initialize OpenGL
+Computer  Graphics */
 
 
 void initGL() {
